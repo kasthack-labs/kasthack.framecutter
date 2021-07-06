@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Framecutter/Dockerfile
+    image: kasthack/framecutter
+    restart: always
+    environment:
+      - Framecutter__Telegram__Token
