@@ -5,6 +5,6 @@ services:
       context: .
       dockerfile: Framecutter/Dockerfile
     image: kasthack/framecutter
-    restart: always
+    restart: unless-stopped
     environment:
       - Framecutter__Telegram__Token
