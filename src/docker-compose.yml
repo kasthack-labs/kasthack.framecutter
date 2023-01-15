@@ -3,8 +3,9 @@ services:
   bot:
     build:
       context: .
-      dockerfile: Framecutter/Dockerfile
-    image: kasthack/framecutter
-    restart: always
+      dockerfile: kasthack.Framecutter/Dockerfile
+    image: kasthackphoenix/kasthack.framecutter
+    container_name: kasthack.framecutter
+    restart: unless-stopped
     environment:
       - Framecutter__Telegram__Token

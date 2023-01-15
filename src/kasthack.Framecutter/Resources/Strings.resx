@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorWhileProcessing" xml:space="preserve">
-    <value>Что-то сломалось посреди обработки: {0}. Свяжитесь с @wwwwwwjodiorg для решения проблемы.</value>
+    <value>Что-то сломалось посреди обработки: {0}. Свяжитесь с @kasthack для решения проблемы.</value>
   </data>
   <data name="FrameIsReady" xml:space="preserve">
     <value>Фрейм готов. Если он выглядит не так, как ожидалось, перешлите это сообщение вместе с оригинальным изображением @wwwwwwjodiorg</value>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Framecutter.Resources {
+namespace kasthack.Framecutter.Resources {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Framecutter.Resources {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Framecutter.Resources.Strings", typeof(Strings).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("kasthack.Framecutter.Resources.Strings", typeof(Strings).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,7 +61,7 @@ namespace Framecutter.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Что-то сломалось посреди обработки: {0}. Свяжитесь с @wwwwwwjodiorg для решения проблемы..
+        ///   Looks up a localized string similar to Что-то сломалось посреди обработки: {0}. Свяжитесь с @kasthack для решения проблемы..
         /// </summary>
         internal static string ErrorWhileProcessing {
             get {

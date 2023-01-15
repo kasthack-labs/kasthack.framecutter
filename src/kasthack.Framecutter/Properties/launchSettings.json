@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Framecutter": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
